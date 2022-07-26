@@ -1,5 +1,10 @@
 # todolistapp
 
+<h2> A to-do application made with VueJS, by me <h2>
+
+<h3> MAIN PAGE </h3>
+<img src=screenshots/main.png>
+
 ## Project setup
 ```
 npm install
